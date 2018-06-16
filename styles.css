@@ -1,11 +1,29 @@
+h1 {
+  text-align: center;
+  color: blue;
+
+}
+h2 {
+  text-align: center;
+  color: blue;
+}
 body {
-  height: 100%;
-  margin: 10px;
-  background-color: yellow;
+  background-color: lightblue;
 }
 .pages{
   float: left;
-  font-family: monospace;
-  font-size: 12px;
-  background-color: green;
+}
+.view{
+  text-align: left;
+}
+.click{
+  text-align: center;
+  color: blue;
+}
+footer{
+  text-align: center;
+  column-rule-color: green;
+}
+.slide{
+  position: relative;
 }
