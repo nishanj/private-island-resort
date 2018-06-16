@@ -1,3 +1,11 @@
-body{
-  text-align: center;
+body {
+  height: 100%;
+  margin: 10px;
+  background-color: yellow;
+}
+.pages{
+  float: left;
+  font-family: monospace;
+  font-size: 12px;
+  background-color: green;
 }
